@@ -34,6 +34,8 @@ UNCLE MUGEN'S FREE VN (OELVN) RESOURCES ( https://lemmasoft.renai.us/forums/view
 
 -자체 라이선스(자유 이용)
 
+
+
 Ren'Py Visual Novel Engine
 
 -MIT 허가서(번역)
