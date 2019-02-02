@@ -19,7 +19,11 @@ chmod u+x ./CaveWoman.sh
 
 다운로드가 완료되면 해당 디렉토리에 들어간 후 위의 명령어로 **/lib/linux-i686/CaveWoman**와(과) **/lib/linux-x86_64/CaveWoman**, **/CaveWoman.sh**의 실행 권한을 변경해주십시오.
 
->./CaveWoman.sh  OR  sudo ./CaveWoman.sh
+```
+./CaveWoman.sh
+OR
+sudo ./CaveWoman.sh
+```
 
 상기 과정을 완료한 후, 위의 명령어를 사용하여 게임을 구동하는 쉘 스크립트를 실행할 수 있습니다.
 
