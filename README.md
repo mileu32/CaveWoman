@@ -26,7 +26,9 @@ chmod u+x ./CaveWoman.sh
 
 ```
 ./CaveWoman.sh
-OR
+
+##OR##
+
 sudo ./CaveWoman.sh
 ```
 
