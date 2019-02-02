@@ -55,8 +55,14 @@ Ren'Py Visual Novel Engine
 
 저작권자의 허가 없이 불법 복제 및 무단 배포를 진행할 경우 대한민국 및 국제 저작권법에 의거하여 처벌받을 수 있습니다.
 
-
-- 음원 제작자 : [knisan01](https://www.youtube.com/channel/UCSlS8sVzWuLxsoKlCCSG-UA?view_as=subscriber)
+- 기획/제작 총괄 : 리즈(duwns29)
+- 메인 프로그래머 : 리즈(duwns29)
+- 서브 프로그래머 : Syri(junimiso04), knisan01
+- 음원 제작 : [knisan01](https://www.youtube.com/channel/UCSlS8sVzWuLxsoKlCCSG-UA?view_as=subscriber)
+- 배경 디자인&삽화 : 강숙희 사랑해, 리즈(duwns29)
+- 캐릭터 디자인&삽화 : 리즈(duwns29), 감자, 라비린스, 강숙희 사랑해, Marilyn
+- UI 디자인 : Syri(junimiso04), knisan01
+- 타이틀 디자인 : Syri(junimiso04)
 
 ## 오류 제보 및 문의
 오류 제보 및 기타 문의는 아래에 나열된 연락처 중 하나로 보내주시면 감사하겠습니다.
