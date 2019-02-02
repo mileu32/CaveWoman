@@ -1,4 +1,7 @@
 # 신석기녀 : 인연의 끈
+
+본 git 레포지토리는 최종 배포용 파일을 업로드하는 용도로 개설되었으며, 공식적인 소식  및 다운로드는 [슈퍼스트링 공식 팬카페](https://cafe.naver.com/terrormen160114)에서 가능합니다.
+
 ## 다운로드
 ### Windows
 >https://drive.google.com/uc?id=1Me_rnj7DN9oSR-pgmu6Gh3eEGX-KurW2
