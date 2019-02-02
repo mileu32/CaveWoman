@@ -22,6 +22,5 @@ git을 사용하여 본 레포지토리를 다운로드합니다.
 ## 오류 제보 및 문의
 오류 제보 및 기타 문의는 아래에 나열된 연락처 중 하나로 보내주시면 감사하겠습니다.
 
-[@Email-junimiso04@naver.com](mailto://junimiso04@naver.com)
-
-@KakaoTalk-hxsanta
+@Email-junimiso04@naver.com
+@Email-duwns29@naver.com
