@@ -9,7 +9,9 @@
 >git clone https://github.com/next-experience-studio/CaveWoman.git
 
 git을 사용하여 본 레포지토리를 다운로드합니다.
->cd CaveWoman
+```
+cd CaveWoman
+```
 
 ```
 chmod u+x ./lib/linux-i686/CaveWoman
