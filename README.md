@@ -13,7 +13,7 @@ git을 사용하여 본 레포지토리를 다운로드합니다.
 
 >chmod u+x ./lib/linux-i686/CaveWoman  chmod u+x ./lib/linux-x86_64/CaveWoman  chmod u+x ./CaveWoman.sh
 
-다운로드가 완료되면 해당 디렉토리에 들어간 후 위의 명령어로 **/lib/linux-i686/CaveWoman**과 **/lib/linux-x86_64/CaveWoman**, **chmod u+x ./CaveWoman.sh**의 실행 권한을 변경해주십시오.
+다운로드가 완료되면 해당 디렉토리에 들어간 후 위의 명령어로 **/lib/linux-i686/CaveWoman**와(과) **/lib/linux-x86_64/CaveWoman**, **chmod u+x ./CaveWoman.sh**의 실행 권한을 변경해주십시오.
 
 >./CaveWoman.sh  OR  sudo ./CaveWoman.sh
 
@@ -23,4 +23,5 @@ git을 사용하여 본 레포지토리를 다운로드합니다.
 오류 제보 및 기타 문의는 아래에 나열된 연락처 중 하나로 보내주시면 감사하겠습니다.
 
 @Email-junimiso04@naver.com
+
 @Email-duwns29@naver.com
